@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranBuilding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranBuildings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranSimulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\GameObjectManagerTerran.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\GameObjectManagerTerran.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranBuilding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranBuildings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranUnits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GithubProjects\StarCraftBuilder\src\races\terran\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{64336B05-67FD-3DB7-B5CF-C2C39348ED88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{54B1AC90-A034-30C1-8645-6A3DF74F5058}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

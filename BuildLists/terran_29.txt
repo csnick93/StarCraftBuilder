@@ -1,0 +1,10 @@
+engineering_bay
+supply_depot
+supply_depot
+command_center
+barracks
+barracks
+barracks
+barracks
+refinery
+engineering_bay

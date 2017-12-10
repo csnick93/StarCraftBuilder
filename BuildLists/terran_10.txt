@@ -1,0 +1,10 @@
+supply_depot
+barracks
+refinery
+engineering_bay
+barracks_with_reactor
+refinery
+barracks_with_tech_lab
+reaper
+barracks_with_tech_lab
+ghost_academy

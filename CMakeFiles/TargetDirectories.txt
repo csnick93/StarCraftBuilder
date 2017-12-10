@@ -1,0 +1,9 @@
+D:/GithubProjects/StarCraftBuilder/CMakeFiles/INSTALL.dir
+D:/GithubProjects/StarCraftBuilder/CMakeFiles/ALL_BUILD.dir
+D:/GithubProjects/StarCraftBuilder/CMakeFiles/ZERO_CHECK.dir
+D:/GithubProjects/StarCraftBuilder/src/CMakeFiles/INSTALL.dir
+D:/GithubProjects/StarCraftBuilder/src/framework/CMakeFiles/INSTALL.dir
+D:/GithubProjects/StarCraftBuilder/src/framework/CMakeFiles/framework.dir
+D:/GithubProjects/StarCraftBuilder/src/races/CMakeFiles/INSTALL.dir
+D:/GithubProjects/StarCraftBuilder/src/races/terran/CMakeFiles/terran_simulator.dir
+D:/GithubProjects/StarCraftBuilder/src/races/terran/CMakeFiles/INSTALL.dir

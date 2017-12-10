@@ -1,0 +1,10 @@
+supply_depot
+supply_depot
+supply_depot
+engineering_bay
+refinery
+refinery
+supply_depot
+command_center
+supply_depot
+engineering_bay

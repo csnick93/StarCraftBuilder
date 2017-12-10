@@ -1,0 +1,10 @@
+refinery
+supply_depot
+refinery
+command_center
+engineering_bay
+planetary_fortress
+planetary_fortress
+barracks
+missile_turret
+missile_turret

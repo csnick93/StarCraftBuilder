@@ -1,0 +1,10 @@
+engineering_bay
+missile_turret
+refinery
+planetary_fortress
+supply_depot
+barracks
+sensor_tower
+engineering_bay
+barracks_with_tech_lab
+marauder

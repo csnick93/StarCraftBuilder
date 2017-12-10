@@ -1,0 +1,10 @@
+supply_depot
+supply_depot
+engineering_bay
+barracks
+barracks
+missile_turret
+missile_turret
+missile_turret
+refinery
+engineering_bay

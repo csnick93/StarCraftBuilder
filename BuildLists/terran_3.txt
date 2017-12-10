@@ -1,0 +1,10 @@
+engineering_bay
+command_center
+engineering_bay
+command_center
+command_center
+missile_turret
+missile_turret
+refinery
+refinery
+command_center

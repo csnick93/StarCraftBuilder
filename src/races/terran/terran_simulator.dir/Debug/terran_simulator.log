@@ -1,0 +1,37 @@
+﻿  Building Custom Rule D:/GithubProjects/StarCraftBuilder/src/races/terran/CMakeLists.txt
+  CMake does not need to re-run because D:\GithubProjects\StarCraftBuilder\src\races\terran\CMakeFiles\generate.stamp is up-to-date.
+cl : Command line warning D9002: ignoring unknown option '-ftemplate-backtrace-limit=0'
+  TerranBuilding.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  TerranBuildings.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranBuildings.cpp(67): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  TerranSimulator.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranSimulator.cpp(31): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10586.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+D:\GithubProjects\StarCraftBuilder\src\races\terran\TerranSimulator.cpp(38): warning C4101: 'e': unreferenced local variable
+  GameObjectManagerTerran.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  terran_simulator.vcxproj -> D:\GithubProjects\StarCraftBuilder\src\races\terran\Debug\terran_simulator.exe

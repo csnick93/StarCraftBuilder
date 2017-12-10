@@ -1,0 +1,10 @@
+command_center
+supply_depot
+refinery
+command_center
+supply_depot
+engineering_bay
+command_center
+barracks
+supply_depot
+command_center

@@ -1,0 +1,58 @@
+﻿  Building Custom Rule D:/GithubProjects/StarCraftBuilder/src/framework/CMakeLists.txt
+  CMake does not need to re-run because D:\GithubProjects\StarCraftBuilder\src\framework\CMakeFiles\generate.stamp is up-to-date.
+  BaseBuilding.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+  BaseUnit.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BuildList.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\framework\BuildList.cpp(348): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\framework\BuildList.cpp(399): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\framework\BuildList.cpp(644): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\framework\BuildList.cpp(819): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GameObject.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ID.cpp
+  Inventory.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Simulator.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(111): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\BuildList.h(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\GithubProjects\StarCraftBuilder\src\framework\Simulator.cpp(164): warning C4101: 'e': unreferenced local variable
+D:\GithubProjects\StarCraftBuilder\src\framework\Simulator.cpp(342): warning C4101: 'e': unreferenced local variable
+  TypeID.cpp
+  VespeneBuilding.cpp
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(130): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(141): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(162): warning C4018: '<': signed/unsigned mismatch
+d:\githubprojects\starcraftbuilder\src\framework\FixedPoint.h(170): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+d:\githubprojects\starcraftbuilder\src\framework\buildlist.cpp(1155): warning C4715: 'BuildList::operator<': not all control paths return a value
+  framework.vcxproj -> D:\GithubProjects\StarCraftBuilder\src\framework\Debug\framework.lib
