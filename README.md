@@ -11,7 +11,7 @@ The exact build rules are described in Techtree_Key.png (describing the general 
 
 In order to run the code, find the *terran_simulator.exe* in *./src/races/terran/Release*. Run the code by providing an extra two command line arguments:
   - path2buildList: path to a build list to be simulated (find example build lists in the *./BuildLists* folder
-  - path2outputFile: path to a output file where the simulation log can be written to
+  - path2outputFile: path to an output text file where the simulation log can be written to
   
 So, run: *terran_simulator.exe path2buildList path2outputFile*
 
