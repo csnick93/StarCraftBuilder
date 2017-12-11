@@ -1,0 +1,10 @@
+supply_depot
+barracks
+supply_depot
+refinery
+barracks
+supply_depot
+barracks_with_reactor
+engineering_bay
+refinery
+barracks_with_reactor
